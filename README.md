@@ -21,7 +21,8 @@
 **The ultimate lightweight, open-source bridge to connect n8n with ChatGPT for FREE.**
 
 ---
-
+## ❤️ Sponsors
+- [Kareem Adel](https://www.facebook.com/Kareemadel.official.account) — Owner & CEO at Wzila
 ## 🌟 Overview
 
 **mse_ai_api** is a high-performance proxy server built with **FastAPI** and **Playwright**. It perfectly mimics the official OpenAI API structure, tricking ChatGPT's free web interface into acting as a legitimate API endpoint. It serves as a seamless drop-in replacement for n8n's OpenAI and HTTP nodes. 
